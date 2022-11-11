@@ -1,0 +1,71 @@
+{
+    "name": "Antonio Joarez (AntonioJoarez)",
+    "job": "Developer Front-End",
+    "github": "https://github.com/AntonioJoarez.png",
+    "playlists": {
+      "músicas": [
+          {
+            "title": "Onni, Angola, Guizo & Sant – Ponto de Força pd. Asiri",
+            "url": "https://www.youtube.com/watch?v=WN-FgwTkqhY",
+            "thumb": "https://img.youtube.com/vi/WN-FgwTkqhY/hqdefault.jpg"
+          },
+          {
+            "title": "Froid Ft Matheusinho - Beijinho",
+            "url": "https://www.youtube.com/watch?v=QkgHj7oT2PE",
+            "thumb": "https://img.youtube.com/vi/QkgHj7oT2PE/hqdefault.jpg"
+          },
+          {
+            "title": "Bazzi - Paradise",
+            "url": "https://www.youtube.com/watch?v=x90WLRa5uGo",
+            "thumb": "https://img.youtube.com/vi/x90WLRa5uGo/hqdefault.jpg"
+          },
+          {
+            "title": "Pitty - Na Sua Estante (Clipe Oficial)",
+            "url": "https://www.youtube.com/watch?v=DP3j6hgS4VY",
+            "thumb": "https://img.youtube.com/vi/DP3j6hgS4VY/hqdefault.jpg"
+          },
+          {
+            "title": "03. Don L - Aquela Fé (feat. Nego Gallo)",
+            "url": "https://www.youtube.com/watch?v=ZYKJZBGIqnM",
+            "thumb": "https://img.youtube.com/vi/ZYKJZBGIqnM/hqdefault.jpg"
+          },
+          {
+            "title": "31. Duzz - Bons Lençóis (prod. LR Beats)",
+            "url": "https://www.youtube.com/watch?v=q0XQkItRV-k",
+            "thumb": "https://img.youtube.com/vi/q0XQkItRV-k/hqdefault.jpg"
+          },
+          {
+            "title": "Konai - Feitiço (Clipe Oficial)",
+            "url": "https://www.youtube.com/watch?v=fSPiZlCuIw8",
+            "thumb": "https://img.youtube.com/vi/fSPiZlCuIw8/hqdefault.jpg"
+          }
+        ],
+      "motivacionais": [
+        {
+          "title": "Clóvis de Barros em sua Melhor Palestra Motivacional - Você vai se Emocionar! [MOTIVACIONAL]",
+          "url": "https://www.youtube.com/watch?v=6itWVrgBH8s",
+          "thumb": "https://img.youtube.com/vi/6itWVrgBH8s/hqdefault.jpg"
+        },
+        {
+          "title": "MUDE SEUS HÁBITOS | PARA DE SER PREGUIÇOSO | Cortella (MOTIVACIONAL)",
+          "url": "https://www.youtube.com/watch?v=RYmlG9ai0fk",
+          "thumb": "https://img.youtube.com/vi/RYmlG9ai0fk/hqdefault.jpg"
+        },
+        {
+          "title": "5 MINUTOS QUE VALERÃO POR UMA VIDA INTEIRA | Leandro karnal MOTIVACIONAL",
+          "url": "https://www.youtube.com/watch?v=4u3f43Z-ufs",
+          "thumb": "https://img.youtube.com/vi/4u3f43Z-ufs/hqdefault.jpg"
+        },
+        {
+          "title": "ASSISTA ESSE VÍDEO TODOS OS DIAS DA SEMANA - MOTIVAÇÃO",
+          "url": "https://www.youtube.com/watch?v=rZOZ2daGVnM",
+          "thumb": "https://img.youtube.com/vi/rZOZ2daGVnM/hqdefault.jpg"
+        },
+        {
+          "title": "VOCÊ É ESPETACULAR - PETER PARKER",
+          "url": "https://www.youtube.com/watch?v=0K9lF13XQkg",
+          "thumb": "https://img.youtube.com/vi/0K9lF13XQkg/hqdefault.jpg"
+        }
+      ]
+    }
+  }
